@@ -1,7 +1,7 @@
 title: Dr1
-description: Code for position sensor integration into the PX4 flight stack. Currently includes Aruco marker identitification and pose estimation as well as a deserializer for NASA's SVGS sensor.
+description: Dr1 is a project at the [Florida Tech Dynamic Systems, Controls, and Mechatronics Lab.](https://research.fit.edu/dynamic-systems-and-controls-lab/). The main goal of the project is to benchmark NASA's SVGS technology against other commercially available technologies by precisely landing a drone
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
