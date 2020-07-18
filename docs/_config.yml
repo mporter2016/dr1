@@ -2,7 +2,7 @@ title: Dr1
 description: Code for position sensor integration into the PX4 flight stack. Currently includes Aruco marker identitification and pose estimation as well as a deserializer for NASA's SVGS sensor.
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
